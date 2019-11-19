@@ -15,7 +15,7 @@ This repository contains the supplementary materials of "Mining electronic healt
 
 ### Supplementary Data 4 - Terms that are prevalent for all cohort pairs of interest
 
-[Supplementary Data 4](supplementary_data_4.xlsx) contains the results of the prevalence analysis for all cohort pairs of interest: IPV-Preg, IPV-CKD, IPV-MC, IPV-Endo, IPV-IUD, Preg-CKD, Preg-MC, Preg-Endo, Preg-IUD. The terms identified here for cohort pair X-Y are prevalent for X and Y cohorts. Thus, the terms identified here exhibit increased frequency in the presense of both X and Y (though not necessarily together). 
+[Supplementary Data 4](supplementary_data_4.xlsx) contains the results of the prevalence analysis separately for all cohort pairs of interest: IPV-Preg, IPV-CKD, IPV-MC, IPV-Endo, IPV-IUD, Preg-CKD, Preg-MC, Preg-Endo, Preg-IUD. The terms identified here for cohort pair X-Y are prevalent for X and Y cohorts. Thus, the terms identified here exhibit increased frequency in the presense of both X and Y (though not necessarily together). 
 
 ### Supplementary Data 5 - Terms that are synergistic for IPV and pregnancy
 
@@ -23,4 +23,4 @@ This repository contains the supplementary materials of "Mining electronic healt
 
 ### Supplementary Data 6 - Terms that are synergistic for all cohort pairs of interest
 
-[Supplementary Data 6](supplementary_data_6.xlsx) contains the results of the synergy analysis for all cohort pairs of interest: IPV-Preg, IPV-CKD, IPV-MC, IPV-Endo, IPV-IUD, Preg-CKD, Preg-MC, Preg-Endo, Preg-IUD. The terms identified here for cohort pair X-Y are more frequent in X&Y cohort compared to their individual frequencies in X and Y cohorts. Thus, the terms identified here exhibit increased frequency specifically when both X and Y conditions are present together.
+[Supplementary Data 6](supplementary_data_6.xlsx) contains the results of the synergy analysis separately for all cohort pairs of interest: IPV-Preg, IPV-CKD, IPV-MC, IPV-Endo, IPV-IUD, Preg-CKD, Preg-MC, Preg-Endo, Preg-IUD. The terms identified here for cohort pair X-Y are more frequent in X&Y cohort compared to their individual frequencies in X and Y cohorts. Thus, the terms identified here exhibit increased frequency specifically when both X and Y conditions are present together.
