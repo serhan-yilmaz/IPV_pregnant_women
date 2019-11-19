@@ -21,6 +21,6 @@ This repository contains the supplementary materials of "Mining electronic healt
 
 [Supplementary Data 5](supplementary_data_5.xlsx) contains the results of the synergy analysis for IPV and pregnancy. The terms identified here are more frequent in IPV&Preg cohort compared to their individual frequencies in IPV and Preg cohorts. Thus, the terms identified here exhibit increased frequency specifically when both IPV and pregnancy are present together.
 
-### Supplementary Data 5 - Terms that are synergistic for all cohort pairs of interest
+### Supplementary Data 6 - Terms that are synergistic for all cohort pairs of interest
 
 [Supplementary Data 6](supplementary_data_6.xlsx) contains the results of the synergy analysis for all cohort pairs of interest: IPV-Preg, IPV-CKD, IPV-MC, IPV-Endo, IPV-IUD, Preg-CKD, Preg-MC, Preg-Endo, Preg-IUD. The terms identified here for cohort pair X-Y are more frequent in X&Y cohort compared to their individual frequencies in X and Y cohorts. Thus, the terms identified here exhibit increased frequency specifically when both X and Y conditions are present together.
