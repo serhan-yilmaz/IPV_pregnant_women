@@ -9,7 +9,7 @@ This repository contains the supplementary materials of "Mining electronic healt
 
 [Supplementary Data 2](supplementary_data_2.xlsx) contains the results of the prevalence analysis separately for all cohorts: IPV, Preg, CKD, MC, Endo, IUD. The term identified as prevalent here exhibit increased frequency in the population when present together with the corresponding condition.
 
-### Supplementary Data 3 - Terms that are prevalent in IPV and Preg cohorts
+### Supplementary Data 3 - Terms that are prevalent for both IPV and Preg
 
 [Supplementary Data 3](supplementary_data_3.xlsx) contains the results of the prevalence analysis for IPV and pregnancy. The terms identified here are prevalent in both IPV and Preg cohorts. Thus, the terms identified here exhibit increased frequency in the presense of both IPV and pregnancy (though not necessarily together). 
 
